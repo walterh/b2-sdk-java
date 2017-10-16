@@ -1,5 +1,8 @@
 .gradle
 .idea
+.project
+.classpath
+.settings/
 build
 core/build/
 httpclient/build/
