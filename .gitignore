@@ -4,6 +4,7 @@
 .classpath
 .settings/
 build
+**/target/
 core/build/
 httpclient/build/
 samples/build/
